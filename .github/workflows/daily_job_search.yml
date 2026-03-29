@@ -1,4 +1,4 @@
-name: Daily Linkedin Job Search
+name: Daily Linkedin Job Search Finder
 
 on:
   schedule:
