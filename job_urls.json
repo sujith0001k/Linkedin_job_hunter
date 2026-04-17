@@ -1,20 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-java-spring-flowable-bpm-at-pnc-4393829054",
-        "title": "Software Engineer Sr (Java, Spring, Flowable BPM)",
-        "date_found": "2026-04-09"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-java-spring-flowable-bpm-at-pnc-4393823316",
-        "title": "Software Engineer Sr (Java, Spring, Flowable BPM)",
-        "date_found": "2026-04-09"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/senior-pega-lead-system-architect-lsa-at-jps-tech-solutions-4399820646",
-        "title": "Senior Pega Lead System Architect (LSA)",
-        "date_found": "2026-04-09"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/senior-product-owner-16770-at-seneca-resources-company-llc-4400523984",
         "title": "Senior Product Owner -- 16770",
         "date_found": "2026-04-10"
@@ -355,11 +340,6 @@
         "date_found": "2026-04-15"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/pega-senior-developer-at-net2source-n2s-4402513055",
-        "title": "Pega Senior Developer",
-        "date_found": "2026-04-15"
-    },
-    {
         "url": "https://in.linkedin.com/jobs/view/pega-developer-sal1-at-willware-technologies-4401078116",
         "title": "PEGA Developer (SAL1)",
         "date_found": "2026-04-16"
@@ -448,5 +428,25 @@
         "url": "https://de.linkedin.com/jobs/view/senior-system-architect-pega-all-genders-at-init-services-for-the-esociety-4400183271",
         "title": "Senior System Architect PEGA (all genders)",
         "date_found": "2026-04-16"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/virtusa-pega-lsa-with-pcs-and-healthcare-experience-remote-at-jobs-via-dice-4402343090",
+        "title": "Virtusa : Pega LSA with PCS and Healthcare Experience Remote",
+        "date_found": "2026-04-17"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/client-executive-select-growth-new-logos-at-pegasystems-4388448997",
+        "title": "Client Executive - Select & Growth (New Logos)",
+        "date_found": "2026-04-17"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/rpa-development-lead-at-cgi-4402202233",
+        "title": "RPA Development Lead",
+        "date_found": "2026-04-17"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-developer-at-brilliant-infotech-inc-4402985777",
+        "title": "Pega Developer",
+        "date_found": "2026-04-17"
     }
 ]
