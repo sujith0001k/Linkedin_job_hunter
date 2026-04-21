@@ -1,45 +1,5 @@
 [
     {
-        "url": "https://www.linkedin.com/jobs/view/pega-architect-at-akkodis-group-nordics-4400648842",
-        "title": "Pega Architect",
-        "date_found": "2026-04-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pega-engagement-manager-at-capgemini-4398172771",
-        "title": "Pega Engagement manager",
-        "date_found": "2026-04-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pega-architect-at-akkodis-group-nordics-4400659491",
-        "title": "Pega Architect",
-        "date_found": "2026-04-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-entry-to-mid-level-at-pegasystems-4401092100",
-        "title": "Data Engineer (Entry- to Mid-level)",
-        "date_found": "2026-04-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pega-senior-developer-at-infosys-4399068622",
-        "title": "Pega Senior Developer",
-        "date_found": "2026-04-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pega-developer-ssa-at-accenture-federal-services-4400629193",
-        "title": "Pega Developer (SSA)",
-        "date_found": "2026-04-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/it-systems-architect-at-cgs-federal-contact-government-services-4401011058",
-        "title": "IT Systems Architect",
-        "date_found": "2026-04-13"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/director-pega-platform-at-first-premier-bank-premier-bankcard-4398194146",
-        "title": "Director, Pega Platform",
-        "date_found": "2026-04-13"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/senior-director-pega-at-first-tech-federal-credit-union-4399580035",
         "title": "Senior Director, Pega",
         "date_found": "2026-04-14"
@@ -260,11 +220,6 @@
         "date_found": "2026-04-20"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/pega-developer-at-xaxis-solutions-4403626124",
-        "title": "Pega Developer",
-        "date_found": "2026-04-20"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/pega-developer-at-voto-consulting-llc-4402773137",
         "title": "Pega Developer",
         "date_found": "2026-04-20"
@@ -281,11 +236,6 @@
     },
     {
         "url": "https://www.linkedin.com/jobs/view/pega-developer-at-capgemini-4403422229",
-        "title": "Pega Developer",
-        "date_found": "2026-04-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pega-developer-at-strategic-staffing-solutions-4403894439",
         "title": "Pega Developer",
         "date_found": "2026-04-20"
     },
@@ -342,11 +292,6 @@
     {
         "url": "https://www.linkedin.com/jobs/view/pega-sr-developer-at-first-horizon-bank-4402630821",
         "title": "Pega Sr. Developer",
-        "date_found": "2026-04-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pega-software-engineer-at-marlabs-4402195242",
-        "title": "PEGA Software Engineer",
         "date_found": "2026-04-20"
     },
     {
@@ -435,18 +380,73 @@
         "date_found": "2026-04-20"
     },
     {
-        "url": "https://www.linkedin.com/jobs/view/senior-pega-technical-lead-fulltime-at-lorven-technologies-inc-4403619752",
-        "title": "Senior Pega Technical Lead - Fulltime",
-        "date_found": "2026-04-20"
-    },
-    {
-        "url": "https://www.linkedin.com/jobs/view/pega-decisioning-cdh-at-excelon-solutions-4402166074",
-        "title": "Pega decisioning / CDH",
-        "date_found": "2026-04-20"
-    },
-    {
         "url": "https://www.linkedin.com/jobs/view/technical-program-manager-%E2%80%93-rpa-ai-at-wonderbotz-4403164416",
         "title": "Technical Program Manager \u2013 RPA & AI",
         "date_found": "2026-04-20"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-developer-at-mpower-plus-4404349492",
+        "title": "Pega Developer",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-ssa-at-fedtec-4404813215",
+        "title": "Pega SSA",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/test-analyst-pega-focussed-%C2%A0-at-fedtec-4404800626",
+        "title": "Test Analyst (Pega focussed)",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-developer-consultant-at-experis-4403653692",
+        "title": "Pega Developer / Consultant",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/openspan-developers-pega-robotic-studio-%E2%80%93-chennai-at-truedge-software-solutions-pvt-ltd-4403651085",
+        "title": "OPENSPAN DEVELOPERS PEGA ROBOTIC STUDIO \u2013 CHENNAI",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-ssa-at-tekshapers-4403963782",
+        "title": "Pega SSA",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/learning-and-development-consultant-at-veear-projects-inc-4403665872",
+        "title": "Learning and development Consultant",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-pega-at-drivetime-4404551012",
+        "title": "Senior Software Engineer (Pega)",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-senior-systems-architect-at-brilliant-infotech-inc-4403666546",
+        "title": "PEGA Senior Systems Architect",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-lead-system-architect-at-labb-4404568586",
+        "title": "Pega Lead System Architect",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-lead-at-lorven-technologies-inc-4403635784",
+        "title": "Pega Lead",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/pega-lead-system-architect-lsa-at-sj-mobilita-4404363570",
+        "title": "Pega Lead System Architect (LSA)",
+        "date_found": "2026-04-21"
+    },
+    {
+        "url": "https://www.linkedin.com/jobs/view/progress-open-edge-developer-at-new-york-technology-partners-4404371772",
+        "title": "Progress Open Edge Developer",
+        "date_found": "2026-04-21"
     }
 ]
