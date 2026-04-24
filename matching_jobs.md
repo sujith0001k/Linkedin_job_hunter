@@ -29,7 +29,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 7. [Job Post](https://www.linkedin.com/jobs/view/pega-lead-developer-medicaid-visa-independent-at-shrive-technologies-4403846367)
-> **Company:** Not Found | **Location:** united states | **Salary:** $144,000 - $258,000
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 8. [Job Post](https://www.linkedin.com/jobs/view/pega-developer-dha-at-social-security-administration-4400419647)
@@ -85,7 +85,7 @@
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 21. [Job Post](https://www.linkedin.com/jobs/view/senior-pega-technical-lead-at-nam-info-inc-4402989299)
-> **Company:** Not Found | **Location:** united states | **Salary:** $154,003 - $217,000
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
 ### 22. [Job Post](https://www.linkedin.com/jobs/view/pega-technical-lead-at-lorven-technologies-inc-4402745231)
