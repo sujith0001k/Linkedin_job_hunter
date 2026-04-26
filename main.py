@@ -12,6 +12,9 @@ from typing import TypedDict, List, Dict
 from langgraph.graph import StateGraph, END
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
+from langsmith import Client
+from langchain_core.tracers.context import tracing_v2_enabled, collect_runs
+import uuid
 
 from curl_cffi import requests as stealth_requests
 from bs4 import BeautifulSoup
@@ -496,6 +499,37 @@ def send_email_notification(to_email, report_path):
     except Exception as e:
         print(f"  [!] Failed to send email: {e}")
 
+def generate_langsmith_report(metrics: Dict):
+    report_path = f"execution_report_{date.today()}.md"
+    
+    lines = [
+        f"# Job Agent Execution Report ({date.today()})",
+        "",
+        f"**Total Execution Time:** {metrics['total_time']:.2f} seconds",
+        "",
+        "## Node Performance & Funnel",
+        ""
+    ]
+    
+    for node, stats in metrics.get("nodes", {}).items():
+        lines.append(f"### {node}")
+        if "time" in stats:
+            lines.append(f"- **Time Taken:** {stats['time']:.2f} seconds")
+        if node == "Scout":
+            lines.append(f"- **Jobs Found (Total so far):** {stats.get('jobs_found', 0)}")
+        elif node == "Scraper":
+            lines.append(f"- **Jobs Scraped (Valid):** {stats.get('jobs_scraped', 0)}")
+        elif node == "Analyst":
+            lines.append(f"- **Jobs Passed:** {stats.get('jobs_passed', 0)}")
+            lines.append(f"- **Jobs Filtered (Failed):** {stats.get('jobs_failed', 0)}")
+        elif node == "Manager":
+             lines.append(f"- **Report Generated:** {stats.get('report_generated', False)}")
+        lines.append("")
+        
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    print(f"\n  [REPORT] Saved execution metrics to {report_path}")
+
 # Execution helper
 def run_job_finder():
     config = get_search_queries()
@@ -510,6 +544,8 @@ def run_job_finder():
         "search_index": 0,
         "search_exhausted": False,
         "scraped_jobs": [],
+        "job_urls": [],
+        "analyzed_jobs": [],
         "location": location,
         "config": config
     }
@@ -520,8 +556,56 @@ def run_job_finder():
         print(f"Notification Email: {email_to}")
     print(f"Target Websites: {domains}\n")
     
-    for output in app.stream(initial_state):
-        pass
+    metrics = {
+        "start_time": time.time(),
+        "nodes": {}
+    }
+    run_id = uuid.uuid4()
+    project_name = os.getenv("LANGCHAIN_PROJECT", "LinkedIn Job Agent")
+    print(f"  [LANGSMITH] Tracing to project: {project_name} (Run ID: {run_id})")
+    
+    with tracing_v2_enabled(project_name=project_name, tags=["AutomatedRun"]):
+        with collect_runs() as cb:
+            current_time = time.time()
+            for output in app.stream(initial_state, config={"run_id": run_id, "metadata": {"location": location, "query": config.get('search_term', '')}}):
+                node_name = list(output.keys())[0]
+                node_state = output[node_name]
+                
+                elapsed = time.time() - current_time
+                current_time = time.time()
+                
+                if node_name not in metrics["nodes"]:
+                    metrics["nodes"][node_name] = {"time": 0.0}
+                metrics["nodes"][node_name]["time"] += elapsed
+                
+                if node_name == "Scout":
+                    metrics["nodes"][node_name]["jobs_found"] = len(node_state.get("job_urls", []))
+                elif node_name == "Scraper":
+                    metrics["nodes"][node_name]["jobs_scraped"] = len(node_state.get("scraped_jobs", []))
+                elif node_name == "Analyst":
+                    analyzed = node_state.get("analyzed_jobs", [])
+                    metrics["nodes"][node_name]["jobs_passed"] = len([j for j in analyzed if j.get("grade") == "PASS"])
+                    metrics["nodes"][node_name]["jobs_failed"] = len([j for j in analyzed if j.get("grade") == "FAIL"])
+                elif node_name == "Manager":
+                    metrics["nodes"][node_name]["report_generated"] = True
+                
+            metrics["total_time"] = time.time() - metrics["start_time"]
+            
+            passed_count = metrics["nodes"].get("Analyst", {}).get("jobs_passed", 0)
+            try:
+                if cb.traced_runs:
+                    actual_run_id = cb.traced_runs[0].id
+                    client = Client()
+                    client.create_feedback(
+                        actual_run_id,
+                        key="jobs_passed",
+                        score=passed_count
+                    )
+                    print(f"  [LANGSMITH] Logged feedback to Run {actual_run_id}: jobs_passed = {passed_count}")
+            except Exception as e:
+                print(f"  [LANGSMITH] Could not log feedback (Is LANGCHAIN_API_KEY set?): {e}")
+
+    generate_langsmith_report(metrics)
     
     print("\n--- RUN COMPLETE ---!")
     
