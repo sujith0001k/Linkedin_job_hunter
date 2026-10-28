@@ -1,206 +1,206 @@
-# Pega Job Search Results (2026-10-21)
+# Pega Job Search Results (2026-10-28)
 
 **Jobs Meeting Criteria:** 50
 
 ## ✅ Approved Jobs (Correct Location)
 
-### 1. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475285479)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 2. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475280650)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 3. [Job Post](https://www.linkedin.com/jobs/view/pega-admin-at-tata-consultancy-services-4448596296)
-> **Company:** Not Found | **Location:** united states | **Salary:** $100,000-$120,000
-> **Analyst Reasoning:** Pega keywords found.
-
-### 4. [Job Post](https://www.linkedin.com/jobs/view/pega-developer-us-at-td-4478702345)
-> **Company:** Not Found | **Location:** united states | **Salary:** $98,160 - $159,270
-> **Analyst Reasoning:** Pega keywords found.
-
-### 5. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475280475)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 6. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475268979)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 7. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475283455)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 8. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475284291)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 9. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475285564)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 10. [Job Post](https://www.linkedin.com/jobs/view/pega-software-engineer-financial-services-at-state-farm-4477938903)
-> **Company:** Financial Services | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 11. [Job Post](https://www.linkedin.com/jobs/view/pega-developer-at-booz-allen-hamilton-4476971749)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 12. [Job Post](https://www.linkedin.com/jobs/view/pega-rpa-position-at-virtusa-4475287279)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 13. [Job Post](https://www.linkedin.com/jobs/view/architect-at-virtusa-4475278650)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 14. [Job Post](https://www.linkedin.com/jobs/view/pega-software-engineer-financial-services-at-state-farm-4477955120)
-> **Company:** Financial Services | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 15. [Job Post](https://www.linkedin.com/jobs/view/pega-developer-technical-lead-at-ntt-data-north-america-4470668149)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 16. [Job Post](https://www.linkedin.com/jobs/view/pega-ai-cdh-architect-at-experis-4476256157)
-> **Company:** Not Found | **Location:** united states | **Salary:** $145000 - $180000
-> **Analyst Reasoning:** Pega keywords found.
-
-### 17. [Job Post](https://www.linkedin.com/jobs/view/architect-at-virtusa-4475281515)
-> **Company:** Not Found | **Location:** united states | **Salary:** $91,400 - $125,600
-> **Analyst Reasoning:** Pega keywords found.
-
-### 18. [Job Post](https://www.linkedin.com/jobs/view/pega-lead-developer-70889001-at-cognizant-4476236966)
-> **Company:** 70889001 | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 19. [Job Post](https://www.linkedin.com/jobs/view/pega-software-engineer-financial-services-at-state-farm-4477951390)
-> **Company:** Financial Services | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 20. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475278774)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 21. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475268980)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 22. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475281419)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 23. [Job Post](https://www.linkedin.com/jobs/view/pega-developer-at-delta-dental-ins-4460197475)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 24. [Job Post](https://www.linkedin.com/jobs/view/pega-software-engineer-financial-services-at-state-farm-4477939945)
-> **Company:** Financial Services | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 25. [Job Post](https://www.linkedin.com/jobs/view/technology-lead-pega-at-infosys-4476418371)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 26. [Job Post](https://www.linkedin.com/jobs/view/pega-developer-at-delta-dental-ins-4460184597)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 27. [Job Post](https://www.linkedin.com/jobs/view/certified-senior-pega-developer-cssa-lsa-at-main-digital-4479548133)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 28. [Job Post](https://www.linkedin.com/jobs/view/sr-solutions-developer-at-midland-credit-management-4475957965)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 29. [Job Post](https://www.linkedin.com/jobs/view/sr-pega-developer-at-ntt-data-north-america-4476925492)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 30. [Job Post](https://www.linkedin.com/jobs/view/pega-lead-system-architect-lsa-at-ntt-data-north-america-4470600380)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 31. [Job Post](https://www.linkedin.com/jobs/view/pega-lead-system-architect-lsa-at-ntt-data-north-america-4470600381)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 32. [Job Post](https://www.linkedin.com/jobs/view/lead-system-architect-at-pegasystems-4476688088)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 33. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475276780)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 34. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475283550)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 35. [Job Post](https://www.linkedin.com/jobs/view/service-delivery-center-process-solution-automation-pega-senior-system-architect-senior-at-ey-4474470750)
-> **Company:** Process Solution Automation | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 36. [Job Post](https://www.linkedin.com/jobs/view/senior-pega-lead-lsa-1-certified-at-w3global-4478710707)
-> **Company:** Not Found | **Location:** united states | **Salary:** $120,000.00
-> **Analyst Reasoning:** Pega keywords found.
-
-### 37. [Job Post](https://www.linkedin.com/jobs/view/pega-consultant-at-infosys-4476420315)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 38. [Job Post](https://www.linkedin.com/jobs/view/system-architect-at-accenture-federal-services-4478708105)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 39. [Job Post](https://www.linkedin.com/jobs/view/tech-sales-pega-at-virtusa-4475275852)
-> **Company:** Pega | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 40. [Job Post](https://www.linkedin.com/jobs/view/service-delivery-center-process-solution-automation-pega-senior-system-architect-senior-at-ey-4474471692)
-> **Company:** Process Solution Automation | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 41. [Job Post](https://www.linkedin.com/jobs/view/pega-architect-at-techstra-solutions-4479069452)
-> **Company:** Not Found | **Location:** united states | **Salary:** $120,000.00
-> **Analyst Reasoning:** Pega keywords found.
-
-### 42. [Job Post](https://www.linkedin.com/jobs/view/pega-lead-system-architect-at-zscale-llc-4477993712)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 43. [Job Post](https://www.linkedin.com/jobs/view/software-engineering-advisor-hybrid-at-the-cigna-group-4476665875)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 44. [Job Post](https://www.linkedin.com/jobs/view/pega-lead-system-architect-70854081-at-cognizant-4475729467)
-> **Company:** 70854081 | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 45. [Job Post](https://www.linkedin.com/jobs/view/manager-software-engineering-pega-remote-at-drivetime-4478171927)
-> **Company:** Remote | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 46. [Job Post](https://www.linkedin.com/jobs/view/pega-consultant-at-infosys-4476409713)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 47. [Job Post](https://www.linkedin.com/jobs/view/pega-business-analyst-at-infosys-4476412679)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 48. [Job Post](https://www.linkedin.com/jobs/view/functional-tester-at-accenture-federal-services-4467287569)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 49. [Job Post](https://www.linkedin.com/jobs/view/sr-pega-developer-system-architect-at-mango-analytics-4479010416)
-> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
-> **Analyst Reasoning:** Pega keywords found.
-
-### 50. [Job Post](https://www.linkedin.com/jobs/view/sr-pega-developer-at-accenture-federal-services-4481281342)
+### 1. [Job Post](https://www.linkedin.com/jobs/view/sr-pega-developer-at-accenture-federal-services-4481281342)
 > **Company:** Not Found | **Location:** united states | **Salary:** $118,700
+> **Analyst Reasoning:** Pega keywords found.
+
+### 2. [Job Post](https://www.linkedin.com/jobs/view/senior-pega-application-engineer-at-hca-healthcare-4480571205)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 3. [Job Post](https://www.linkedin.com/jobs/view/senior-pega-engineer-developer-at-first-tech-federal-credit-union-4480301101)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 4. [Job Post](https://www.linkedin.com/jobs/view/senior-pega-engineer-developer-at-first-tech-federal-credit-union-4479739418)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 5. [Job Post](https://www.linkedin.com/jobs/view/senior-pega-engineer-developer-at-first-tech-federal-credit-union-4480304024)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 6. [Job Post](https://www.linkedin.com/jobs/view/pega-modernization-lead-at-idr-inc-4480162703)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 7. [Job Post](https://www.linkedin.com/jobs/view/senior-system-architect-at-pegasystems-4470896991)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 8. [Job Post](https://www.linkedin.com/jobs/view/pega-developer-at-synechron-4478249184)
+> **Company:** Not Found | **Location:** united states | **Salary:** $120,000.00
+> **Analyst Reasoning:** Pega keywords found.
+
+### 9. [Job Post](https://www.linkedin.com/jobs/view/senior-pega-developer-at-new-york-life-4463145427)
+> **Company:** Not Found | **Location:** united states | **Salary:** $157,851.00
+> **Analyst Reasoning:** Pega keywords found.
+
+### 10. [Job Post](https://www.linkedin.com/jobs/view/pega-application-developer-at-accenture-federal-services-4481278491)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 11. [Job Post](https://www.linkedin.com/jobs/view/pega-application-developer-at-accenture-federal-services-4481280472)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 12. [Job Post](https://www.linkedin.com/jobs/view/pega-technical-lead-at-wipro-4480237932)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 13. [Job Post](https://www.linkedin.com/jobs/view/senior-system-architect-at-pegasystems-4477006445)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 14. [Job Post](https://www.linkedin.com/jobs/view/product-owner-%E2%80%93-pega-provider-account-management-at-virtusa-4477365757)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 15. [Job Post](https://www.linkedin.com/jobs/view/technology-consulting-sdc-psa-pega-system-arch-fso-manager-multiple-positions-1747644-at-ey-4471796229)
+> **Company:** SDC | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 16. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4477365763)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 17. [Job Post](https://www.linkedin.com/jobs/view/lead-system-architect-at-pegasystems-4471218424)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 18. [Job Post](https://www.linkedin.com/jobs/view/sr-pega-system-architect-ssa-kyc-at-cognizant-4480273667)
+> **Company:** KYC | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 19. [Job Post](https://www.linkedin.com/jobs/view/senior-solution-architect-at-tata-consultancy-services-4450181835)
+> **Company:** Not Found | **Location:** united states | **Salary:** $143,000 - $200,000
+> **Analyst Reasoning:** Pega keywords found.
+
+### 20. [Job Post](https://www.linkedin.com/jobs/view/senior-cloud-operations-engineer-deployments-at-pegasystems-4478687838)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 21. [Job Post](https://www.linkedin.com/jobs/view/senior-cloud-operations-engineer-deployments-at-pegasystems-4478903163)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 22. [Job Post](https://www.linkedin.com/jobs/view/lead-cloud-delivery-specialist-at-pegasystems-4462546804)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 23. [Job Post](https://www.linkedin.com/jobs/view/pega-project-manager-at-amiseq-4480526678)
+> **Company:** Not Found | **Location:** united states | **Salary:** $45.00
+> **Analyst Reasoning:** Pega keywords found.
+
+### 24. [Job Post](https://www.linkedin.com/jobs/view/digital-channel-lead-analyst-at-citi-4480488537)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 25. [Job Post](https://www.linkedin.com/jobs/view/sales-operations-manager-at-pegasystems-4469789156)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 26. [Job Post](https://www.linkedin.com/jobs/view/digital-product-management-group-manager-at-pnc-4479851411)
+> **Company:** Group Manager | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 27. [Job Post](https://www.linkedin.com/jobs/view/principal-product-marketing-specialist-at-pegasystems-4450853631)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 28. [Job Post](https://www.linkedin.com/jobs/view/pega-consultant-at-infosys-4477716368)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 29. [Job Post](https://www.linkedin.com/jobs/view/senior-director-and-lead-counsel-privacy-ai-cybersecurity-at-pegasystems-4469314805)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 30. [Job Post](https://www.linkedin.com/jobs/view/manager-principal-software-engineer-global-employer-services-technology-at-deloitte-4480105902)
+> **Company:** Global Employer Services Technology | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 31. [Job Post](https://www.linkedin.com/jobs/view/manager-principal-software-engineer-global-employer-services-technology-at-deloitte-4480126042)
+> **Company:** Global Employer Services Technology | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 32. [Job Post](https://www.linkedin.com/jobs/view/manager-principal-software-engineer-global-employer-services-technology-at-deloitte-4480109743)
+> **Company:** Global Employer Services Technology | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 33. [Job Post](https://www.linkedin.com/jobs/view/pega-lead-system-architect-pclsa-with-insurance-domain-exp-schaumburg-il-onsite-at-caliber-smart-4482119044)
+> **Company:** Schaumburg, IL (Onsite) | **Location:** united states | **Salary:** $109,500 - $208,500
+> **Analyst Reasoning:** Pega keywords found.
+
+### 34. [Job Post](https://www.linkedin.com/jobs/view/manager-principal-software-engineer-global-employer-services-technology-at-deloitte-4480110721)
+> **Company:** Global Employer Services Technology | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 35. [Job Post](https://www.linkedin.com/jobs/view/healthcare-solution-architect-presales-at-tata-consultancy-services-4461311428)
+> **Company:** Not Found | **Location:** united states | **Salary:** $138,600 - $187,500
+> **Analyst Reasoning:** Pega keywords found.
+
+### 36. [Job Post](https://www.linkedin.com/jobs/view/pega-pcs-product-composer-system-test-engineer-at-hireon-tech-4479130378)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 37. [Job Post](https://www.linkedin.com/jobs/view/manager-principal-software-engineer-global-employer-services-technology-at-deloitte-4480105904)
+> **Company:** Global Employer Services Technology | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 38. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4480094808)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 39. [Job Post](https://www.linkedin.com/jobs/view/software-engineer-at-virtusa-4482274504)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 40. [Job Post](https://www.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4482287003)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 41. [Job Post](https://www.linkedin.com/jobs/view/sr-manager-marketing-contact-data-strategy-at-pegasystems-4481006136)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 42. [Job Post](https://www.linkedin.com/jobs/view/pega-lsa-with-constellation-exp-at-programmers-io-4483655299)
+> **Company:** Not Found | **Location:** united states | **Salary:** $120,000 - $130,000
+> **Analyst Reasoning:** Pega keywords found.
+
+### 43. [Job Post](https://www.linkedin.com/jobs/view/email-automation-marketing-manager-at-pegasystems-4473154488)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 44. [Job Post](https://www.linkedin.com/jobs/view/pega-tech-lead-at-programmers-io-4483654241)
+> **Company:** Not Found | **Location:** united states | **Salary:** $140,000 - $150,000
+> **Analyst Reasoning:** Pega keywords found.
+
+### 45. [Job Post](https://www.linkedin.com/jobs/view/architect-at-virtusa-4482253310)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 46. [Job Post](https://www.linkedin.com/jobs/view/architect-at-virtusa-4482244828)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 47. [Job Post](https://www.linkedin.com/jobs/view/3-positions-remote-pega-cdh-consultant-pega-lsa-cssa-with-cdh-pega-data-scientist-with-marketing-experience-marketing-research-analysts-with-banking-experience-at-nityo-infotech-4484478547)
+> **Company:** Not Found | **Location:** united states | **Salary:** $36 - $45
+> **Analyst Reasoning:** Pega keywords found.
+
+### 48. [Job Post](https://www.linkedin.com/jobs/view/sr-manager-automation-personalization-at-pegasystems-4480692636)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 49. [Job Post](https://www.linkedin.com/jobs/view/pega-architect-healthcare-at-prudent-technologies-and-consulting-inc-4483677377)
+> **Company:** Healthcare | **Location:** united states | **Salary:** Not Specified
+> **Analyst Reasoning:** Pega keywords found.
+
+### 50. [Job Post](https://www.linkedin.com/jobs/view/pega-developer-at-booz-allen-hamilton-4476130270)
+> **Company:** Not Found | **Location:** united states | **Salary:** Not Specified
 > **Analyst Reasoning:** Pega keywords found.
 
